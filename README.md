@@ -14,7 +14,7 @@ The model adapts to different SAR image characteristics and environmental condit
 
 Below is a flowchart illustrating the process of SAR image colorization using the Adaptive Fusion Model:
 
-![Flowchart](path/to/your/flowchart/image.png)
+![Flowchart](D:\work\hackathon\SIH 2024\SAR\flowchart)
 
 *(Replace `path/to/your/flowchart/image.png` with the actual path to your flowchart image in the repository.)*
 
